@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/davicarnneiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicarnneiro&show_icons=true&theme=transparent&border_color=007a00&title_color=007a00&text_color=ffffff&icon_color=007a00&locale=pt-br&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicarnneiro&layout=compact&langs_count=16&theme=transparent&border_color=007a00&text_color=ffffff&title_color=007a00&locale=pt-br"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davicarnneiro&theme=github_dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davicarnneiro&theme=github_dark"/>
   </a>
   <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=davicarnneiro&theme=github-compact&color=007a00&line=007a00&point=ffffff&area=true&hide_border=false"/>
 </div>
