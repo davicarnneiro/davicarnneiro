@@ -29,6 +29,7 @@
     <img align="center" alt="Terraform" width="50" src="https://i.postimg.cc/RVYcxcjk/terraform.png">
     <img align="center" alt="Docker" width="50" src="https://skillicons.dev/icons?i=docker">
     <img align="center" alt="AWS" width="50" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="GCP" width="50" src="https://skillicons.dev/icons?i=gcp">
     <img align="center" alt="Azure" width="50" src="https://skillicons.dev/icons?i=azure">
     <img align="center" alt="kubernetes" width="50" src="https://skillicons.dev/icons?i=k8s">
     <img align="center" alt="Git" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
