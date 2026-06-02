@@ -57,12 +57,36 @@
  <!-- <a href="https://api.whatsapp.com/send?phone=5575992045048&text=Ol%C3%A1!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  -->
 </div>
 
-<div align="center" style="display: inline_block"><br>
-    <h1>🚀 Meus Projetos 🚀</h1>
-    <a href = "https://github.com/davicarnneiro/application-web-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=application-web-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
-    <a href = "https://github.com/davicarnneiro/terraform-module-ec2-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=terraform-module-ec2-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
-    <a href = "https://github.com/davicarnneiro/terraform-eks-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=terraform-eks-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
-    <a href = "https://github.com/davicarnneiro/start-stop-ec2-aws"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davicarnneiro&repo=start-stop-ec2-aws&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
+<div align="center"><br>
+  <h1>🚀 Meus Projetos 🚀</h1>
+
+  <a href="https://github.com/davicarnneiro/application-web-aws">
+    <img src="https://img.shields.io/badge/application--web--aws-161b22?style=for-the-badge&logo=amazonaws&logoColor=white&color=007a00"/>
+    <img src="https://img.shields.io/github/stars/davicarnneiro/application-web-aws?style=flat-square&color=007a00&labelColor=161b22&label=stars"/>
+    <img src="https://img.shields.io/github/languages/top/davicarnneiro/application-web-aws?style=flat-square&color=007a00&labelColor=161b22"/>
+    <img src="https://img.shields.io/github/last-commit/davicarnneiro/application-web-aws?style=flat-square&color=007a00&labelColor=161b22&label=último+commit"/>
+  </a><br/><br/>
+
+  <a href="https://github.com/davicarnneiro/terraform-module-ec2-aws">
+    <img src="https://img.shields.io/badge/terraform--module--ec2--aws-161b22?style=for-the-badge&logo=terraform&logoColor=white&color=007a00"/>
+    <img src="https://img.shields.io/github/stars/davicarnneiro/terraform-module-ec2-aws?style=flat-square&color=007a00&labelColor=161b22&label=stars"/>
+    <img src="https://img.shields.io/github/languages/top/davicarnneiro/terraform-module-ec2-aws?style=flat-square&color=007a00&labelColor=161b22"/>
+    <img src="https://img.shields.io/github/last-commit/davicarnneiro/terraform-module-ec2-aws?style=flat-square&color=007a00&labelColor=161b22&label=último+commit"/>
+  </a><br/><br/>
+
+  <a href="https://github.com/davicarnneiro/terraform-eks-aws">
+    <img src="https://img.shields.io/badge/terraform--eks--aws-161b22?style=for-the-badge&logo=kubernetes&logoColor=white&color=007a00"/>
+    <img src="https://img.shields.io/github/stars/davicarnneiro/terraform-eks-aws?style=flat-square&color=007a00&labelColor=161b22&label=stars"/>
+    <img src="https://img.shields.io/github/languages/top/davicarnneiro/terraform-eks-aws?style=flat-square&color=007a00&labelColor=161b22"/>
+    <img src="https://img.shields.io/github/last-commit/davicarnneiro/terraform-eks-aws?style=flat-square&color=007a00&labelColor=161b22&label=último+commit"/>
+  </a><br/><br/>
+
+  <a href="https://github.com/davicarnneiro/start-stop-ec2-aws">
+    <img src="https://img.shields.io/badge/start--stop--ec2--aws-161b22?style=for-the-badge&logo=amazonaws&logoColor=white&color=007a00"/>
+    <img src="https://img.shields.io/github/stars/davicarnneiro/start-stop-ec2-aws?style=flat-square&color=007a00&labelColor=161b22&label=stars"/>
+    <img src="https://img.shields.io/github/languages/top/davicarnneiro/start-stop-ec2-aws?style=flat-square&color=007a00&labelColor=161b22"/>
+    <img src="https://img.shields.io/github/last-commit/davicarnneiro/start-stop-ec2-aws?style=flat-square&color=007a00&labelColor=161b22&label=último+commit"/>
+  </a>
 </div>
 
 #
