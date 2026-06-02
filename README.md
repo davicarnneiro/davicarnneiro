@@ -9,7 +9,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/main/output/github-contribution-grid-snake.svg)
 
 ##
 
