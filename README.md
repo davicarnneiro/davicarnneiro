@@ -4,8 +4,13 @@
 
 ##
 
-### Hi there 👋
-### I'm Davi and this is my projects repository ☑
+## 🇧🇷 Olá! 👋
+
+Sou o Davi, e este é o meu repositório de projetos. Aqui você encontrará os projetos em que estou trabalhando e as ideias que estou explorando. 🚀
+
+## 🇺🇸 Hi there! 👋
+
+I'm Davi, and this is my projects repository. Here you'll find the projects I'm working on and the ideas I'm exploring. 🚀
 
 ###
 
