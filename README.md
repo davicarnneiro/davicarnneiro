@@ -1,79 +1,144 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-##
-
-## 🇧🇷 Olá! 👋
-
-Sou o Davi, e este é o meu repositório de projetos. Aqui você encontrará os projetos em que estou trabalhando e as ideias que estou explorando. 🚀
-
-## 🇺🇸 Hi there! 👋
-
-I'm Davi, and this is my projects repository. Here you'll find the projects I'm working on and the ideas I'm exploring. 🚀
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=02ccff"  />
+</div>
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/main/output/github-contribution-grid-snake.svg)
+<h2 align="left">DevOps Engineer | Cloud Engineer </h2>
 
-##
+###
+
+<h1 align="center">Building scalable cloud solutions with AWS, DevOps and Automation ☁️</h1>
+
+###
+
+<h1 align="left"> I'am Davi Carneiro!</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+- 🎓 <strong>Engenheiro de Software</strong><br>
+- 📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>UNIPDS</strong><br>
+- ☁️ <strong>Cloud Platforms:</strong>  AWS, Microsoft Azure, OCI<br>
+- ⚙️ <strong>Experiências:</strong> Cloud Infraestrutura, IAC, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes, automação e monitoramento<br>
+- 🛠️ <strong>Stack:</strong> Docker • Kubernetes • Terraform • Ansible • Python • Bash • Git • GitHub Actions • CI/CD • GitOps (Argocd)<br>
+- 🏅 <strong>Certificações</strong><br>
+&nbsp;  • AWS Certified Cloud Practitioner<br>
+&nbsp;  • Oracle Certified Foundations Associate<br>
+&nbsp;  • GitOps Fundamentals<br><br>
+
+</p>
+
+<h3 align="left">Connect with me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/davicarnneiro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="davicarjes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📚 Hard skills - DevOPS</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=openshift" height="40" alt="openshift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davicarnneiro/davicarnneiro/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">⭐️  GitHub Stats</h2>
+
+###
 
 <div align="center">
-  <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=davicarnneiro&theme=github-compact&color=007a00&line=007a00&point=ffffff&area=true&hide_border=false"/>
-</div>
-
-##
-
-#### Ferramentas que utilizo:
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Icone Linux" width="50" src="https://skillicons.dev/icons?i=linux"/>
-    <img align="center" alt="VS-Code" width="50" src="https://skillicons.dev/icons?i=vscode"/>
-    <img align="center" alt="Terraform" width="50" src="https://i.postimg.cc/RVYcxcjk/terraform.png">
-    <img align="center" alt="Docker" width="50" src="https://skillicons.dev/icons?i=docker">
-    <img align="center" alt="AWS" width="50" src="https://skillicons.dev/icons?i=aws">
-    <img align="center" alt="GCP" width="50" src="https://skillicons.dev/icons?i=gcp">
-    <img align="center" alt="Azure" width="50" src="https://skillicons.dev/icons?i=azure">
-    <img align="center" alt="kubernetes" width="50" src="https://skillicons.dev/icons?i=k8s">
-    <img align="center" alt="Git" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-    <img align="center" alt="GitHub" width="50" src="https://skillicons.dev/icons?i=github">
-    <img align="center" alt="GitHub-Actions" width="50" src="https://skillicons.dev/icons?i=githubactions">
-    <img align="center" alt="Gitlab" width="50" src="https://skillicons.dev/icons?i=gitlab">
-    <img align="center" alt="Ansible" width="50" src="https://skillicons.dev/icons?i=ansible">
-    <img align="center" alt="Prometheus" width="50" src="https://skillicons.dev/icons?i=prometheus">
-    <img align="center" alt="Grafana" width="50" src="https://skillicons.dev/icons?i=grafana">
-    <img align="center" alt="Python" width="50" src="https://skillicons.dev/icons?i=python">
-</div>
-
-##
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="AzDevOps" width="650" src=https://i.postimg.cc/C5dMcrTm/devops-process.png>
+ 
 </div>
 
 ###
 
-<div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/davicarnneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davicarjes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:davicarjes@outlook.com"><img width= "150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
-  <!-- <a href="https://www.youtube.com/DaviCarnneiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/davicarnneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://pt-br.facebook.com/davicarnneiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> -->
- <!-- <a href="https://api.whatsapp.com/send?phone=5575992045048&text=Ol%C3%A1!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=davicarnneiro.davicarnneiro&"  />
 </div>
 
-<div align="center"><br>
-  <h1>🚀 Meus Projetos 🚀</h1>
-  <a href="https://github.com/davicarnneiro/application-web-aws">
-    <img src="https://gh-card.dev/repos/davicarnneiro/application-web-aws.svg?fullname=1&theme=dark"/>
-  </a>
-  <a href="https://github.com/davicarnneiro/terraform-module-ec2-aws">
-    <img src="https://gh-card.dev/repos/davicarnneiro/terraform-module-ec2-aws.svg?fullname=1&theme=dark"/>
-  </a>
-  <br/>
-  <a href="https://github.com/davicarnneiro/start-stop-ec2-aws">
-    <img src="https://gh-card.dev/repos/davicarnneiro/start-stop-ec2-aws.svg?fullname=1&theme=dark"/>
-  </a>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=02ccff"  />
 </div>
 
-#
+###
