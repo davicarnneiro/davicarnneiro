@@ -24,15 +24,15 @@
 
 - 🎓 Engenheiro de Software
 - 📚 Pós-graduando em DevOps & Cloud Platform Engineering com IA pela UNIPDS
-- ☁️ AWS • Azure • OCI
-- 🏗️ Cloud Infrastructure • IaC • Linux • Networking • Hybrid Cloud
-- 🚀 Kubernetes • Docker • Terraform • Ansible • Argo CD
-- 🔄 CI/CD • GitOps • GitHub Actions • Automation • Observability
-- 💻 Python • Bash • Git
-- 🏅 <strong>Certificações</strong><br>
-&nbsp;  • AWS Certified Cloud Practitioner<br>
-&nbsp;  • Oracle Certified Foundations Associate<br>
-&nbsp;  • GitOps Fundamentals<br><br>
+- ☁️ **Cloud:** AWS • Azure • OCI
+- 🏗️ **Infrastructure:** Cloud Infrastructure • IaC • Linux • Networking • Hybrid Cloud
+- 🚀 **Containers & IaC:** Kubernetes • Docker • Terraform • Ansible
+- 🔄 **DevOps:** CI/CD • GitOps • ArgoCD • GitHub Actions • Automation • Observability
+- 💻 **Scripting & Version Control:** Python • Bash • Git
+- 🏅 **Certificações:**
+  - AWS Certified Cloud Practitioner
+  - Oracle Certified Foundations Associate
+  - GitOps Fundamentals
 
 </p>
 
