@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Building scalable cloud solutions with AWS, DevOps and Automation ☁️</h1>
+<h1 align="center">Cloud Infrastructure • DevOps • Automation • AWS ☁️</h1>
 
 ###
 
@@ -20,12 +20,15 @@
 
 ###
 
-<p align="left">
-- 🎓 <strong>Engenheiro de Software</strong><br>
-- 📚 Pós-graduando em <strong>DevOps & Cloud Platform Engineering com IA</strong> pela <strong>UNIPDS</strong><br>
-- ☁️ <strong>Cloud Platforms:</strong>  AWS, Microsoft Azure, OCI<br>
-- ⚙️ <strong>Experiências:</strong> Cloud Infraestrutura, IAC, ambientes híbridos (on-premises e cloud), Linux, Windows, virtualização, redes, automação e monitoramento<br>
-- 🛠️ <strong>Stack:</strong> Docker • Kubernetes • Terraform • Ansible • Python • Bash • Git • GitHub Actions • CI/CD • GitOps (Argocd)<br>
+### 👨‍💻 DevOps Engineer
+
+- 🎓 Engenheiro de Software
+- 📚 Pós-graduando em DevOps & Cloud Platform Engineering com IA pela UNIPDS
+- ☁️ AWS • Azure • OCI
+- 🏗️ Cloud Infrastructure • IaC • Linux • Networking • Hybrid Cloud
+- 🚀 Kubernetes • Docker • Terraform • Ansible • Argo CD
+- 🔄 CI/CD • GitOps • GitHub Actions • Automation • Observability
+- 💻 Python • Bash • Git
 - 🏅 <strong>Certificações</strong><br>
 &nbsp;  • AWS Certified Cloud Practitioner<br>
 &nbsp;  • Oracle Certified Foundations Associate<br>
