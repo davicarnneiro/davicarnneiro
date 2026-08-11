@@ -22,7 +22,7 @@
 
 ### 👨‍💻 DevOps Engineer
 
-- 🎓 Engenheiro de Software
+- 🎓 DevOps Engineer
 - 📚 Pós-graduando em DevOps & Cloud Platform Engineering com IA pela UNIPDS
 - ☁️ **Cloud:** AWS • Azure • OCI
 - 🏗️ **Infrastructure:** Cloud Infrastructure • IaC • Linux • Networking • Hybrid Cloud
